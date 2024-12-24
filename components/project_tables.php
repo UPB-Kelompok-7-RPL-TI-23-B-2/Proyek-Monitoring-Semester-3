@@ -25,7 +25,7 @@
         <table class="table align-items-center justify-content-center mb-0">
           <tbody>
             <tr>
-              <th class="text-uppercase text-xs opacity-7 text-center">ID Project</th>
+              <th class="text-uppercase text-xs opacity-7 text-center">No.</th>
               <th class="text-uppercase text-xs opacity-7 text-center">Project Name</th>
               <th class="text-uppercase text-xs opacity-7 text-center">Status</th>
               <th class="text-uppercase text-xs opacity-7 text-center">Start Date</th>
@@ -42,7 +42,7 @@
               <td class="text-xs font-weight-bold mb-0 text-center"><?php echo $result['status'] ?></td>
               <td class="text-xs font-weight-bold mb-0 text-center"><?php echo $result['start_date'] ?></td>
               <td class="text-xs font-weight-bold mb-0 text-center"><?php echo $result['end_date'] ?></td>
-              <td class="text-xs font-weight-bold mb-0 text-center"><?php echo $result['budget'] ?></td>
+              <td class="text-xs font-weight-bold mb-0 text-center"><?php $rupiah = number_format($result['budget'], 0, ',', '.'); echo 'Rp. ' . $rupiah; ?></td>
               <td class="text-xs font-weight-bold mb-0 text-center">
                 <a href="kelola.php?ubah=<?php echo $result['id_project'] ?>" type="button" class="btn btn-success text-sm font-weight-bold mb-0 border-radius-lg ms-3">Edit</a>
                 <a href="proses/kelola_edit.php?hapus=<?php echo $result['id_project'] ?>" type="button" class="btn btn-danger text-sm font-weight-bold mb-0 border-radius-lg ms-3" onClick="return confirm('Apakah yakin ingin menghapus data?')">Delete</a>
