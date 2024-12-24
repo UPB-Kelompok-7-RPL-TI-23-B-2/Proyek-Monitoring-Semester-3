@@ -17,7 +17,7 @@
               <a href="#" class="nav-link pe-0 text-muted" target="_blank">Kelompok 7 RPL</a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link pe-0 text-muted" target="_blank">.........................................</a>
+              <a href="#" class="nav-link pe-0 text-muted" target="_blank">_____________________________________________</a>
             </li>
           </ul>
         </div>
