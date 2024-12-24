@@ -72,7 +72,7 @@
                           </div>
                           <div class="d-flex flex-column justify-content-center">
                             <h6 class="mb-0 text-sm">Alik Zainul Muchibin</h6>
-                            <p class="text-xs text-secondary mb-0">alik@rpl.com</p>
+                            <p class="text-xs text-secondary mb-0">alikzainul@gmail.com</p>
                           </div>
                         </div>
                       </td>
