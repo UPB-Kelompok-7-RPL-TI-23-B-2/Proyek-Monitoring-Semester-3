@@ -14,8 +14,8 @@
         <table class="table align-items-center justify-content-center mb-0">
           <tbody>
             <tr>
-              <th class="text-uppercase text-xs opacity-7 text-center">ID Report</th>
-              <th class="text-uppercase text-xs opacity-7 text-center">ID Project</th>
+              <th class="text-uppercase text-xs opacity-7 text-center">No.</th>
+              <th class="text-uppercase text-xs opacity-7 text-center">Project Name</th>
               <th class="text-uppercase text-xs opacity-7 text-center">Report Date</th>
               <th class="text-uppercase text-xs opacity-7 text-center">Status</th>
             </tr>
