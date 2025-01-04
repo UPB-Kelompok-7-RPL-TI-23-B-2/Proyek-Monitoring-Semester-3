@@ -1,3 +1,12 @@
+<div align=center>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20:06D001,100:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+
+![image](https://github.com/user-attachments/assets/936ee74f-8a83-435e-8d96-12bdba119c2c)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20:06D001,100:F0F0F0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+
+</div>
+
 # Proyek Monitoring Kelompok 7
 
 ## Deskripsi Proyek
