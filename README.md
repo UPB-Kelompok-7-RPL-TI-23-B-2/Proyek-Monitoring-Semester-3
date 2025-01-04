@@ -9,6 +9,10 @@
 
 # Proyek Monitoring Kelompok 7
 
+Repository ini berisi kode dan dokumentasi untuk proyek monitoring yang dikerjakan oleh Kelompok 7. Proyek ini bertujuan untuk memantau dan menganalisis data dari berbagai sumber untuk memberikan wawasan yang berguna bagi pengguna.
+
+<hr><br>
+
 ## Deskripsi Proyek
 
 Proyek ini merupakan hasil dari review jurnal, penerapan metode Agile, dan pengembangan aplikasi monitoring untuk kelompok 7. 
@@ -30,17 +34,23 @@ Workflow proyek ini mengikuti model iteratif dan inkremental dari Agile, yang me
 - **Review Sprint:** Setelah setiap sprint, dilakukan review untuk menilai hasil dan mendiskusikan perbaikan.
 - **Retrospektif:** Evaluasi proses untuk meningkatkan efisiensi tim dalam sprint berikutnya.
 
-### 4. Class Diagram
+### 4. Class Diagram & Activity Diagram
 Berikut adalah class diagram yang digunakan dalam proyek ini:
 
-![Class Diagram](path/to/class-diagram.png)
+- Class Diagram
+
+![Class Diagram](https://github.com/user-attachments/assets/006321fd-e179-4e71-8ca8-8e6dcd8fb1ae)
+
+- Activity Diagram
+
+![Activity Diagrams](https://github.com/user-attachments/assets/3a63589a-760f-4abd-a815-9943a0dc27d6)
 
 Class diagram ini menggambarkan struktur kelas dan hubungan antar kelas dalam aplikasi monitoring yang dikembangkan.
 
 ### 5. Database
 Struktur database yang digunakan dalam proyek ini adalah sebagai berikut:
 
-![Database Diagram](path/to/database-diagram.png)
+
 
 Database ini dirancang untuk menyimpan data yang relevan dengan aplikasi monitoring, termasuk data pengguna, proyek, tugas, dan progress.
 
