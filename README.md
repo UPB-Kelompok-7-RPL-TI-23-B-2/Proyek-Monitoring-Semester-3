@@ -32,9 +32,13 @@ Kami memilih metode Agile karena beberapa alasan utama:
 
 Berikut adalah class diagram yang digunakan dalam proyek ini:
 
-- Class Diagram
+- Class Diagram (References to Website)
 
 ![db_smep](https://github.com/user-attachments/assets/65557525-1e19-45fa-9b93-3f92a6bfd322)
+
+- Class Diagram (References to Journal)
+
+![Class Diagram](https://github.com/user-attachments/assets/ca5c7e1b-106c-4295-a0b2-d82f43695203)
 
 Class diagram ini menggambarkan struktur kelas dan hubungan antar kelas dalam aplikasi monitoring yang dikembangkan.
 
