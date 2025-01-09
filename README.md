@@ -28,7 +28,7 @@ Kami memilih metode Agile karena beberapa alasan utama:
 - **Iteratif dan Inkremental:** Agile memfasilitasi pengembangan bertahap yang memungkinkan perbaikan berkelanjutan.
 - **Respons Cepat:** Agile memungkinkan respons cepat terhadap perubahan kebutuhan dan umpan balik dari pengguna.
 
-### 2. Class Diagram dan Database Sistem (Pada Jurnal Tersebut)
+### 2. Class Diagram & Activity Diagrams (Pada Jurnal Tersebut)
 
 Berikut adalah class diagram yang digunakan dalam proyek ini:
 
@@ -44,7 +44,7 @@ Class diagram ini menggambarkan struktur kelas dan hubungan antar kelas dalam ap
 
 Struktur database yang digunakan dalam proyek ini adalah sebagai berikut:
 
-- Database Diagram
+- Activity Diagram
 
 ![Database Diagram](https://github.com/user-attachments/assets/3a63589a-760f-4abd-a815-9943a0dc27d6)
 
@@ -55,6 +55,8 @@ Database ini dirancang untuk menyimpan data yang relevan dengan aplikasi monitor
 Relasi antar tabel dalam database ini adalah sebagai berikut:
 
 - **Projects** memiliki banyak **Reports**
+
+![image](https://github.com/user-attachments/assets/0bcc8631-a794-4734-bc9d-2bb43117da88)
 
 Relasi ini memastikan bahwa setiap pengguna dapat memiliki beberapa proyek, setiap proyek dapat memiliki beberapa tugas, dan setiap tugas dapat memiliki beberapa progres.
 
