@@ -34,7 +34,7 @@ Berikut adalah class diagram yang digunakan dalam proyek ini:
 
 - Class Diagram
 
-![Class Diagram](https://github.com/user-attachments/assets/006321fd-e179-4e71-8ca8-8e6dcd8fb1ae)
+![db_smep](https://github.com/user-attachments/assets/65557525-1e19-45fa-9b93-3f92a6bfd322)
 
 Class diagram ini menggambarkan struktur kelas dan hubungan antar kelas dalam aplikasi monitoring yang dikembangkan.
 
@@ -50,9 +50,7 @@ Database ini dirancang untuk menyimpan data yang relevan dengan aplikasi monitor
 
 Relasi antar tabel dalam database ini adalah sebagai berikut:
 
-- **Users** memiliki banyak **Projects**
-- **Projects** memiliki banyak **Tasks**
-- **Tasks** memiliki banyak **Progress**
+- **Projects** memiliki banyak **Reports**
 
 Relasi ini memastikan bahwa setiap pengguna dapat memiliki beberapa proyek, setiap proyek dapat memiliki beberapa tugas, dan setiap tugas dapat memiliki beberapa progres.
 
@@ -72,20 +70,26 @@ Aplikasi monitoring yang dikembangkan dalam proyek ini memiliki fitur-fitur utam
 - **Dashboard:** Menampilkan ringkasan proyek dan tugas.
 - **Manajemen Tugas:** Membuat, mengedit, dan menghapus tugas.
 - **Laporan Progres:** Melacak dan melaporkan progres tugas.
-- **Notifikasi:** Mengirim notifikasi terkait tugas dan progres.
 
 ## Instalasi dan Penggunaan
 
 Untuk menginstal dan menjalankan aplikasi ini, ikuti langkah-langkah berikut:
 
-1. Clone repository ini:
+1. Clone repository ini
    ```bash
    git clone https://github.com/guanshiyin28/Proyek-Monitoring-Kelompok-7.git
    ```
-2. Masuk ke direktori proyek:
+2. Masuk ke direktori proyek
    ```bash
    cd Proyek-Monitoring-Kelompok-7
    ```
+3. Jalankan XAMPP
+4. Import Database
+5. Jalankan di Localhost
+   ```
+   localhost/Proyek-Monitoring-Kelompok-7
+   ```
+
 
 ## Kontribusi
 
